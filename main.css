@@ -1,0 +1,17 @@
+div.profile,.qr-scan {
+    display: flex;
+    justify-content: center;
+}
+
+img.profile {
+    padding: auto;
+    border: 1px solid blue;
+    border-radius: 50%;
+    height: 30rem;
+    width: 30rem;
+}
+#address {
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+}
